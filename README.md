@@ -23,5 +23,5 @@ The script uses the `subprocess` module to interact with the Windows command lin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/wifi-password-extractor.git
+   git clone https://github.com/alishojaeix/Getting-wifi-password.git
    cd wifi-password-extractor
